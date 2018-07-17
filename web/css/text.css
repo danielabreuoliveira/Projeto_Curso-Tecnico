@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+#body{
+	font-family:Georgia, "Times New Roman", Times, serif;
+        margin:0;
+        padding:0;
+        text-align:center;
+}
+#menu{	
+
+	margin: 0;
+	padding: 0;
+	z-index: 30;
+	
+}
+
+#menu li{
+	
+	position:relative;
+	width: 189px;
+	height:69px;
+	list-style: none;
+	float: left;
+	font-size:21px;
+	color:#FFFFFF;
+	
+}
+
+#menu li a 
+{	
+	display: block;
+	margin: 0 1px 0 0;
+	padding: 4px 10px;
+	width: 175px;
+	height:55px;
+        background: #0000CD;
+	color:#FFFFFF;
+	font-size:21px;
+	text-align: center;
+	text-decoration: none;
+	padding-top:10px;
+	}
+
+#menu li a:hover
+{	
+	background: #FFFFFF;
+	color:#0000CD;
+}
+
+#menu div{	
+        
+	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #0000CD;
+	border: 1px solid #0000CD;
+}
+
+#menu div a{	
+
+	position: relative;
+	width: 188px;
+	height:54px;
+	display: block;
+	margin: 0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;	
+	white-space: nowrap;
+	text-align: center;
+	text-decoration: none;
+	background: #FFFFFF;
+	color: #0000CD;
+	font: 11px arial
+}
+
+table  {
+	background: #C6E2FF;
+	color:#000000;
+	text-align:center;
+	font-size:15px;
+	border-spacing: 1px;
+        font-family: Verdana;
+}

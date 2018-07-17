@@ -1,0 +1,32 @@
+SMAP
+form_005finserir_005fcliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 form_inserir_cliente.jsp
+form_inserir_cliente.jsp
++ 1 banner.jsp
+banner.jsp
++ 2 menu.jsp
+menu.jsp
+*L
+5,47:59
+1#1,3:106
+51#0,6:108
+1#2,8:114
+10,6:123
+15,4:129
+20,6:135
+25:141
+26:142,6
+27:148
+27,3:149
+29,4:152
+34,12:157
+45:169
+56#0,18:170
+74,15:189
+88,7:204
+95,15:212
+109,14:227
+*E
